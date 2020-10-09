@@ -8,3 +8,4 @@
 + [Quick.db Repo](https://github.com/TrueXPixels/quick.db)
 + [Quick.db Discord](https://discordapp.com/invite/plexidev)
 + [Discord.js Discord](https://discordapp.com/invite/bRCvFy9)
+[![Run on Repl.it](https://repl.it/badge/github/chxlls/economybot)](https://repl.it/github/chxlls/economybot)
